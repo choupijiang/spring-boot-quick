@@ -11,7 +11,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <zookeeper.host>staging</zookeeper.host>
-        <zookeeper.version>3.5.7</zookeeper.version>
+        <zookeeper.version>3.5.10</zookeeper.version>
         <zkclient.version>0.9</zkclient.version>
         <maven.compiler.plugin.version>3.6.1</maven.compiler.plugin.version>
     </properties>
