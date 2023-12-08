@@ -28,7 +28,7 @@
         <dependency>
             <groupId>com.ctrip.framework.apollo</groupId>
             <artifactId>apollo-client</artifactId>
-            <version>1.5.1</version>
+            <version>2.2.0</version>
         </dependency>
         <!-- 为了编码方便，并非apollo 必须的依赖 -->
         <dependency>
